@@ -1,0 +1,13 @@
+.content img{
+float:left;
+margin:10px;
+}
+
+.content {
+    margin:6px 10px 10px;
+
+}
+
+.ant-card{
+    margin-top:6px;
+}
